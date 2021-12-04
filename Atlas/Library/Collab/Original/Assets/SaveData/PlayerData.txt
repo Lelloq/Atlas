@@ -1,0 +1,1 @@
+{"QuestProgression":0,"SceneObject":{"m_Handle":-15664},"PlayerPosition":{"x":-2.0,"y":-0.5000012516975403,"z":1.0},"WeaponName":"","WeaponDamage":0,"ConsumableName":"","ConsumableVal":0}

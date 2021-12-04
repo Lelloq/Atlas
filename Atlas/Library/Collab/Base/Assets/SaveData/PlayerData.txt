@@ -1,0 +1,1 @@
+{"SavedScene":"Game","QuestProgress":0,"GotSword":true,"SavedPositions":[{"x":5.856451511383057,"y":4.813126087188721},{"x":3.935153007507324,"y":-6.096495151519775}],"SavedSceneNames":["Game","House"],"Weapons":[{"instanceID":45182}],"Consumables":[]}
